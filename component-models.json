@@ -242,13 +242,22 @@
   },
   {
     "id": "tnc",
-    "fields": [{
-        "component": "text-input",
+    "fields": [
+        {
+          "component": "text-input",
+          "valueType": "string",
+          "name": "heading",
+          "value": "",
+          "label": "Heading",
+          "description": "Sets the title for Secondary Search"
+      },
+      {
+        "component": "reference",
         "valueType": "string",
-        "name": "heading",
-        "value": "",
-        "label": "Heading",
-        "description": "Sets the title for Secondary Search"
-    }]
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      }
+    ]
   }
 ]
