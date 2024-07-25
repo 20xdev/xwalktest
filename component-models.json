@@ -275,9 +275,16 @@
       {
         "component": "button",
         "name": "cta",
-        "value": "",
+        "value": "My Button",
         "label": "CTA",
         "valueType": "string"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "no_oly_badge",
+        "label": "NoOlyBadge",
+        "value": "Some Msg"
       }
     ]
   }
