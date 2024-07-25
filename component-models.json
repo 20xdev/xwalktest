@@ -266,6 +266,7 @@
         "value": ""
       },
       {
+        "component": "reference",
         "name": "teaser",
         "model": "teaser",
         "image": "/content/dam/teaser-background.png",
