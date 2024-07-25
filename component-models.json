@@ -266,31 +266,6 @@
         "value": ""
       },
       {
-        "component": "richtext",
-        "name": "content",
-        "value": "",
-        "label": "Content",
-        "valueType": "string"
-      },
-      {
-        "component": "select",
-        "name": "cta1Type",
-        "value": "primary",
-        "label": "First CTA Type",
-        "description": "'Primary' will render button filled, 'Secondary' with an outline.",
-        "valueType": "string",
-        "options": [
-          {
-            "name": "Primary",
-            "value": "primary"
-          },
-          {
-            "name": "Secondary",
-            "value": "secondary"
-          }
-        ]
-      },
-      {
         "name": "teaser",
         "model": "teaser",
         "image": "/content/dam/teaser-background.png",
