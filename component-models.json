@@ -292,30 +292,6 @@
             "label": "Simple Text 2",
             "name": "text2",
             "valueType": "string"
-          },
-          {
-            "component": "text-input",
-            "label": "Simple Text 3",
-            "name": "text3",
-            "valueType": "string"
-          },
-          {
-            "component": "text-input",
-            "label": "Simple Text 4",
-            "name": "text4",
-            "valueType": "string"
-          },
-          {
-            "component": "text-input",
-            "label": "Simple Text 5",
-            "name": "text5",
-            "valueType": "string"
-          },
-          {
-            "component": "text-input",
-            "label": "Simple Text 6",
-            "name": "text6",
-            "valueType": "string"
           }
         ]
       }
