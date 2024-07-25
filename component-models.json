@@ -246,7 +246,7 @@
       {
         "component": "container",
         "label": "Terms and Conditions",
-        "name": "image",
+        "name": "tnc_container",
         "valueType": "string",
         "collapsible": true,
         "fields": [
