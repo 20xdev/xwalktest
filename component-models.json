@@ -243,27 +243,36 @@
   {
     "id": "tnc",
     "fields": [
-        {
-          "component": "text-input",
-          "valueType": "string",
-          "name": "heading",
-          "value": "",
-          "label": "Heading",
-          "description": "Sets the title for Secondary Search"
-      },
       {
-        "component": "reference",
-        "valueType": "string",
+        "component": "container",
+        "label": "Terms and Conditions",
         "name": "image",
-        "label": "Image",
-        "multi": false
-      },
-      {
-        "component": "text",
         "valueType": "string",
-        "name": "imageAlt",
-        "label": "Alt",
-        "value": ""
+        "collapsible": true,
+        "fields": [
+          {
+            "component": "text-input",
+            "valueType": "string",
+            "name": "heading",
+            "value": "",
+            "label": "Heading",
+            "description": "Sets the title for Secondary Search"
+          },
+          {
+            "component": "reference",
+            "valueType": "string",
+            "name": "image",
+            "label": "Image",
+            "multi": false
+          },
+          {
+            "component": "text",
+            "valueType": "string",
+            "name": "imageAlt",
+            "label": "Alt",
+            "value": ""
+          }
+        ]
       },
       {
         "component": "container",
