@@ -292,6 +292,12 @@
             "label": "Simple Text 2",
             "name": "text2",
             "valueType": "string"
+          },
+          {
+            "component": "text-input",
+            "label": "Simple Text 3",
+            "name": "text3",
+            "valueType": "string"
           }
         ]
       }
