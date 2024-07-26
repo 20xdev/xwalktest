@@ -359,6 +359,12 @@
         "label": "Simple Text 6",
         "name": "text6",
         "valueType": "string"
+      },
+      {
+        "component": "text-input",
+        "label": "Simple Text 7",
+        "name": "text7",
+        "valueType": "string"
       }
     ]
   }
