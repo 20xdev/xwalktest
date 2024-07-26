@@ -360,7 +360,11 @@
     "id": "teaser",
     "fields": [
       {
-        "teaserText_subtitle": "Adobe Experience Cloud",
+        "name": "teaserText_subtitle",
+        "xtype": "textfield",
+        "fieldLabel": "SubTitle"
+      },
+      {
         "teaserText_title": "Meet the Experts",
         "teaserText_titleType": "h2",
         "teaserText_description": "<p>Join us in this ask me everything session...</p>",
