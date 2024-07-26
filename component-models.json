@@ -322,7 +322,7 @@
     ]
   },
   {
-    "id": "teaser",
+    "id": "teaserCmp",
     "fields": [
       {
         "component": "text-input",
