@@ -321,6 +321,23 @@
       }
     ]
   },
+  {
+    "id": "teaser",
+    "fields": [
+      {
+        "component": "text-input",
+        "name": "teaserText_subtitle",
+        "xtype": "textfield",
+        "fieldLabel": "SubTitle",
+
+        "valueType": "string",
+        "value": "",
+        "label": "Heading",
+        "description": "Sets the title for Secondary Search"
+      }
+      
+    ]
+  },
   
   {
     "id": "myComponent",
@@ -355,23 +372,7 @@
         "name": "secondarySearch2"
       }
     ]
-  },
-  {
-    "id": "teaser",
-    "fields": [
-      {
-        "component": "text-input",
-        "name": "teaserText_subtitle",
-        "xtype": "textfield",
-        "fieldLabel": "SubTitle",
-
-        "valueType": "string",
-        "value": "",
-        "label": "Heading",
-        "description": "Sets the title for Secondary Search"
-      }
-      
-    ]
   }
+  
  
 ]
