@@ -333,7 +333,7 @@
       },
       {
         "component": "text-input",
-        "label": "Simple Text 7",
+        "label": "Simple Text 7 test",
         "name": "text7",
         "valueType": "string"
       }
