@@ -336,6 +336,13 @@
         "label": "Simple Text 7 test",
         "name": "text7",
         "valueType": "string"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
       }
     ]
   }
