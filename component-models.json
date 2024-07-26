@@ -352,7 +352,7 @@
       {
         "component": "secondary-search",
         "label": "secondary-search-2",
-        "name": "secondary-search-2"
+        "name": "secondarySearch2"
       }
     ]
   }
