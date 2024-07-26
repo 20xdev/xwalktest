@@ -321,17 +321,6 @@
       }
     ]
   },
-  {
-    "id": "teaserCmp",
-    "fields": [
-      {
-        "component": "text-input",
-        "label": "Heading",
-        "valueType": "string",
-        "name": "teaserText_subtitle"
-      }
-    ]
-  },
   
   {
     "id": "myComponent",
