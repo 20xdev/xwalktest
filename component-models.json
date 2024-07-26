@@ -363,7 +363,12 @@
         "component": "text-input",
         "name": "teaserText_subtitle",
         "xtype": "textfield",
-        "fieldLabel": "SubTitle"
+        "fieldLabel": "SubTitle",
+
+        "valueType": "string",
+        "value": "",
+        "label": "Heading",
+        "description": "Sets the title for Secondary Search"
       }
       
     ]
