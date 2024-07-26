@@ -341,6 +341,12 @@
         "xtype": "textarea",
         "fieldLabel": "Description",
         "parentNode": "details"
+      },
+      {
+        "component": "text-input",
+        "label": "Simple Text 6",
+        "name": "text6",
+        "valueType": "string"
       }
     ]
   }
