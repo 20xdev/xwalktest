@@ -326,12 +326,9 @@
     "fields": [
       {
         "component": "text-input",
-        "name": "teaserText_subtitle",
-        "fieldLabel": "SubTitle",
-        "valueType": "string",
-        "value": "",
         "label": "Heading",
-        "description": "Sets the title for Secondary Search"
+        "valueType": "string",
+        "name": "teaserText_subtitle"
       }
     ]
   },
