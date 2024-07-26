@@ -327,15 +327,12 @@
       {
         "component": "text-input",
         "name": "teaserText_subtitle",
-        "xtype": "textfield",
         "fieldLabel": "SubTitle",
-
         "valueType": "string",
         "value": "",
         "label": "Heading",
         "description": "Sets the title for Secondary Search"
       }
-      
     ]
   },
   
@@ -365,11 +362,6 @@
         "label": "Simple Text 6",
         "name": "text6",
         "valueType": "string"
-      },
-      {
-        "component": "secondary-search",
-        "label": "secondary-search-2",
-        "name": "secondarySearch2"
       }
     ]
   }
