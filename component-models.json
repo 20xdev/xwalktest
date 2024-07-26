@@ -327,7 +327,7 @@
     "fields": [
       {
         "component": "text-input",
-        "label": "Simple Text 6",
+        "label": "Simple Text 6 testing",
         "name": "text6",
         "valueType": "string"
       },
