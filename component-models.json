@@ -360,6 +360,7 @@
     "id": "teaser",
     "fields": [
       {
+        "component": "text-input",
         "name": "teaserText_subtitle",
         "xtype": "textfield",
         "fieldLabel": "SubTitle"
