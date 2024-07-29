@@ -325,14 +325,13 @@
     "id": "teaserCmp",
     "fields": [
       {
-        "component": "container-filter",
+        "model": "container-filter",
         "label": "Simple Text 8",
         "name": "text8",
         "valueType": "string"
       }
     ]
   },
-  
   {
     "id": "myComponent",
     "fields": [
