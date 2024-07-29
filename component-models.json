@@ -321,17 +321,7 @@
       }
     ]
   },
-  {
-    "id": "teaserCmp",
-    "fields": [
-      {
-        "component": "text-input",
-        "label": "Simple Text 8",
-        "name": "text8",
-        "valueType": "string"
-      }
-    ]
-  },
+  
   {
     "id": "myComponent",
     "fields": [
