@@ -356,6 +356,75 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "teaser",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "alt",
+        "value": "Default alt",
+        "label": "Alt Text"
+      },
+      {
+        "component": "text-input",
+        "valueType": "string",
+        "name": "teaserText_subtitle",
+        "label": "Teaser Text"
+      },
+      {
+        "component": "text-input",
+        "valueType": "string",
+        "name": "teaserText_title",
+        "label": "Teaser Title"
+      },
+      {
+        "component": "text-input",
+        "valueType": "string",
+        "name": "teaserText_titleType",
+        "label": "Teaser Title Type"
+      },
+      {
+        "component": "text-input",
+        "valueType": "string",
+        "name": "teaserText_description",
+        "label": "Teaser Description"
+      },
+      {
+        "component": "button",
+        "name": "teaserText_cta1",
+        "value": "",
+        "label": "CTA",
+        "valueType": "string"
+      },
+      {
+        "component": "text-input",
+        "valueType": "string",
+        "name": "teaserText_cta1Text",
+        "label": "Teaser CTA1 Text"
+      },
+      {
+        "component": "button",
+        "name": "teaserText_cta2",
+        "value": "",
+        "label": "CTA",
+        "valueType": "string"
+      },
+      {
+        "component": "text-input",
+        "valueType": "string",
+        "name": "teaserText_cta2Text",
+        "label": "Teaser CTA2 Text"
+      }
+    ]
   }
   
  
