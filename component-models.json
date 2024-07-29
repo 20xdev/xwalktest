@@ -321,42 +321,6 @@
       }
     ]
   },
-  
-  {
-    "id": "myComponent",
-    "fields": [
-      {
-        "name": "details",
-        "xtype": "container",
-        "fieldLabel": "Details",
-        "collapsible": true
-      },
-      {
-        "name": "detailsTitle",
-        "xtype": "textfield",
-        "fieldLabel": "Title",
-        "parentNode": "details"
-      },
-      {
-        "name": "detailsDescription",
-        "xtype": "textarea",
-        "fieldLabel": "Description",
-        "parentNode": "details"
-      },
-      {
-        "component": "text-input",
-        "label": "Simple Text 6",
-        "name": "text6",
-        "valueType": "string"
-      },
-      {
-        "component": "text-input",
-        "label": "Simple Text 7",
-        "name": "text",
-        "valueType": "string"
-      }
-    ]
-  },
   {
     "id": "teaser",
     "fields": [
