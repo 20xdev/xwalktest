@@ -325,7 +325,7 @@
     "id": "teaserCmp",
     "fields": [
       {
-        "model": "container-filter",
+        "component": "text-input",
         "label": "Simple Text 8",
         "name": "text8",
         "valueType": "string"
