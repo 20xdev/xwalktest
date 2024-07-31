@@ -253,7 +253,7 @@
           {
             "component": "text-input",
             "valueType": "string",
-            "name": "tncText_heading",
+            "name": "tnc_heading",
             "value": "",
             "label": "Heading",
             "description": "Sets the title for Secondary Search"
@@ -261,14 +261,14 @@
           {
             "component": "reference",
             "valueType": "string",
-            "name": "tncText_image",
+            "name": "tnc_image",
             "label": "Image",
             "multi": false
           },
           {
             "component": "text",
             "valueType": "string",
-            "name": "tncText_imageAlt",
+            "name": "tnc_imageAlt",
             "label": "Alt",
             "value": ""
           }
@@ -284,37 +284,37 @@
           {
             "component": "text-input",
             "label": "Simple Text 1",
-            "name": "tncText_text1",
+            "name": "tnc_text1",
             "valueType": "string"
           },
           {
             "component": "text-input",
             "label": "Simple Text 2",
-            "name": "tncText_text2",
+            "name": "tnc_text2",
             "valueType": "string"
           },
           {
             "component": "text-input",
             "label": "Simple Text 3",
-            "name": "tncText_text3",
+            "name": "tnc_text3",
             "valueType": "string"
           },
           {
             "component": "text-input",
             "label": "Simple Text 4",
-            "name": "tncText_text4",
+            "name": "tnc_text4",
             "valueType": "string"
           },
           {
             "component": "text-input",
             "label": "Simple Text 5",
-            "name": "tncText_text5",
+            "name": "tnc_text5",
             "valueType": "string"
           },
           {
             "component": "text-input",
             "label": "Simple Text 6",
-            "name": "tncText_text6",
+            "name": "tnc_text6",
             "valueType": "string"
           }
         ]
